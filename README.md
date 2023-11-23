@@ -8,6 +8,7 @@ and I am a <strong>full-stack developer</strong> who has been working in develop
 <br>
 I enjoy researching and developing <strong>quantitative investment programs.</strong><br>
 I started this project 8 years ago and currently running <strong>version 3.0</strong> of the program.
+<br>
 
 <!--
 **BrandonLim-Dev/BrandonLim-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
