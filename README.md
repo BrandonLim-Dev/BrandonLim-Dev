@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/brandon-lim-8300a7260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://brandon-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <hr/>
-✨I’m currently working as an <strong>IT planner</strong> and <strong>Project Manager</strong> on the <strong>Artificial Intelligence</strong> field for 5-years.<br>
+✨I’m currently working as a <strong>Product Manager</strong> and <strong>Project Manager</strong> on the <strong>Artificial Intelligence</strong> field for 5-years.<br>
 and I am a <strong>full-stack developer</strong> who has been working in development for 12 years.
 <br>
 <br>
